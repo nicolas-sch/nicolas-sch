@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-schmidt-b984151a4/"><img align="center" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-schmidt-b984151a4/" alt="https://www.linkedin.com/in/nicolas-schmidt-b984151a4/"/></a> <a href="nicolasdrivebackup@gmail.com"><img align="center" src="https://img.shields.io/badge/-nicolasdrivebackup@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nicolasdrivebackup@gmail.com" alt="gmail"/></a>
+  <a href="https://www.linkedin.com/in/nicolas-schmidt-b984151a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-schmidt-b984151a4/" alt="https://www.linkedin.com/in/nicolas-schmidt-b984151a4/"/></a> <img align="center" src="https://img.shields.io/badge/-nicolasdrivebackup@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nicolasdrivebackup@gmail.com" alt="gmail"/>
 </p>
 &nbsp;
 &nbsp;
