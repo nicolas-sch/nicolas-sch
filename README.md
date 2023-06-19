@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Schmidt</h1>
-<h3 align="left">A frontend developer from Brazil</h3>
+<h3 align="left">A frontend developer</h3>
 <!-- 
 <p>I currently work at <a href="https://www.linkedin.com/company/deltaglobalbr/mycompany/" target="_blank">Delta Global</a>, on the <a href="https://www.deltaglobal.com.br/fleet" target="_blank">Delta Fleet</a> Fleet management system.</p> -->
 &nbsp;
